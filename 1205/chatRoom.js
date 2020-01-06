@@ -1,4 +1,5 @@
 
+//채팅방 
 var roomManager = (function () {
     var roomObj = {};
 
